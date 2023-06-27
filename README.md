@@ -7,7 +7,7 @@
  - Find the Total Price of items present in cart
  - Filter the product page in Ascending and Descending order of Price , Filter By Product Availability, Filter By Fast Delivery , Filter By Rating ,Filter by search Query.
 
- ##   **Live Site URL:** <a href="https://react-shoppingcart-yashshamnani.netlify.app/">**Visit Now** 🚀</a>
+ ##   **Live Site URL:** <a href="https://shopping-cart-ritesh.netlify.app/">**Visit Now** 🚀</a>
 
  ## Built with:
 
@@ -25,7 +25,7 @@
  https://user-images.githubusercontent.com/95028496/235916633-188fabc8-63af-4a1a-864f-b8c2a5199a3d.mp4
 
 
-[![Demo Video](./overwiew/Screenshot%20(165).png)](./overwiew/shopping%20cart%20video.mp4)
+
 
 
 
